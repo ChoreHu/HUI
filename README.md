@@ -1,2 +1,2 @@
 # HUI
-nodejs和javascript个人项目练习
+nodejs and javascript project description
